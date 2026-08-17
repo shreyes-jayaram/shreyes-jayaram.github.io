@@ -45,7 +45,7 @@ underlying source material.
 
 
 <iframe
-  src="{{ '/assets/html/leaflet_github.html' | relative_url }}"
+  src="{{ '/assets/html/leaflet_github_20260816.html' | relative_url }}"
   width="100%"
   height="850"
   style="border: none; border-radius: 8px;">
